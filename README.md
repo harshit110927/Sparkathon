@@ -1,2 +1,2 @@
-# Spartathon
+# Sparkathon
 My solution for sparkathon
